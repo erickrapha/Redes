@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Circulo_Azul_0: 1209193610496432187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
